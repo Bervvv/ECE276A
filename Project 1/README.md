@@ -1,4 +1,4 @@
-# ECE276A
+# ECE276A Project 1
 
 # Training file
 Extract information into different classes: 
